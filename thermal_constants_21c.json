@@ -1,0 +1,373 @@
+[
+  {
+    "Name":"Ag",
+    "Density (g/cm3)":1.05E+01,
+    "Thermal Conductivity (W/cm-K)":4.29E+00,
+    "Specific Heat (J/g-K)":2.35E-01,
+    "Linear Expansion (um/cm/C)":1.80E-01
+  },
+  {
+    "Name":"Air",
+    "Density (g/cm3)":1.20E-03,
+    "Thermal Conductivity (W/cm-K)":2.60E-04,
+    "Specific Heat (J/g-K)":1.00E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Al",
+    "Density (g/cm3)":2.71E+00,
+    "Thermal Conductivity (W/cm-K)":2.04E+00,
+    "Specific Heat (J/g-K)":9.00E-01,
+    "Linear Expansion (um/cm/C)":2.25E-01
+  },
+  {
+    "Name":"Alumel",
+    "Density (g/cm3)":8.60E+00,
+    "Thermal Conductivity (W/cm-K)":2.94E-01,
+    "Specific Heat (J/g-K)":5.44E-01,
+    "Linear Expansion (um/cm/C)":1.21E-01
+  },
+  {
+    "Name":"Alumina Ceramic - 96%",
+    "Density (g/cm3)":3.57E+00,
+    "Thermal Conductivity (W/cm-K)":3.53E-01,
+    "Specific Heat (J/g-K)":8.37E-01,
+    "Linear Expansion (um/cm/C)":6.50E-02
+  },
+  {
+    "Name":"Ar",
+    "Density (g/cm3)":1.66E-03,
+    "Thermal Conductivity (W/cm-K)":1.60E-04,
+    "Specific Heat (J/g-K)":5.18E-01,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Au",
+    "Density (g/cm3)":1.93E+01,
+    "Thermal Conductivity (W/cm-K)":3.10E+00,
+    "Specific Heat (J/g-K)":1.26E-01,
+    "Linear Expansion (um/cm/C)":1.42E-01
+  },
+  {
+    "Name":"AuSn-80/20",
+    "Density (g/cm3)":1.45E+01,
+    "Thermal Conductivity (W/cm-K)":5.70E-01,
+    "Specific Heat (J/g-K)":1.49E-01,
+    "Linear Expansion (um/cm/C)":1.60E-01
+  },
+  {
+    "Name":"Bakelite",
+    "Density (g/cm3)":1.28E+00,
+    "Thermal Conductivity (W/cm-K)":2.30E-03,
+    "Specific Heat (J/g-K)":1.59E+00,
+    "Linear Expansion (um/cm/C)":2.20E-01
+  },
+  {
+    "Name":"BeO",
+    "Density (g/cm3)":2.90E+00,
+    "Thermal Conductivity (W/cm-K)":2.50E+00,
+    "Specific Heat (J/g-K)":9.60E-01,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Beryllia Ceramic - 99%",
+    "Density (g/cm3)":2.88E+00,
+    "Thermal Conductivity (W/cm-K)":2.30E+00,
+    "Specific Heat (J/g-K)":1.09E+00,
+    "Linear Expansion (um/cm/C)":5.90E-02
+  },
+  {
+    "Name":"Bismuth Telluride",
+    "Density (g/cm3)":7.53E+00,
+    "Thermal Conductivity (W/cm-K)":1.50E-02,
+    "Specific Heat (J/g-K)":5.44E-01,
+    "Linear Expansion (um/cm/C)":1.30E-01
+  },
+  {
+    "Name":"Brass",
+    "Density (g/cm3)":8.49E+00,
+    "Thermal Conductivity (W/cm-K)":1.11E+00,
+    "Specific Heat (J/g-K)":3.43E-01,
+    "Linear Expansion (um/cm/C)":1.80E-01
+  },
+  {
+    "Name":"Bronze",
+    "Density (g/cm3)":8.15E+00,
+    "Thermal Conductivity (W/cm-K)":6.40E-01,
+    "Specific Heat (J/g-K)":4.35E-01,
+    "Linear Expansion (um/cm/C)":1.80E-01
+  },
+  {
+    "Name":"Chromel",
+    "Density (g/cm3)":8.41E+00,
+    "Thermal Conductivity (W/cm-K)":1.35E-01,
+    "Specific Heat (J/g-K)":4.60E-01,
+    "Linear Expansion (um/cm/C)":1.31E-01
+  },
+  {
+    "Name":"Concrete",
+    "Density (g/cm3)":2.88E+00,
+    "Thermal Conductivity (W/cm-K)":1.09E-02,
+    "Specific Heat (J/g-K)":6.53E-01,
+    "Linear Expansion (um/cm/C)":1.44E-01
+  },
+  {
+    "Name":"Constantan",
+    "Density (g/cm3)":8.39E+00,
+    "Thermal Conductivity (W/cm-K)":2.25E-01,
+    "Specific Heat (J/g-K)":4.10E-01,
+    "Linear Expansion (um/cm/C)":1.69E-01
+  },
+  {
+    "Name":"Cu",
+    "Density (g/cm3)":8.96E+00,
+    "Thermal Conductivity (W/cm-K)":3.86E+00,
+    "Specific Heat (J/g-K)":3.85E-01,
+    "Linear Expansion (um/cm/C)":1.67E-01
+  },
+  {
+    "Name":"CuAg-90/10",
+    "Density (g/cm3)":9.11E+00,
+    "Thermal Conductivity (W/cm-K)":3.90E+00,
+    "Specific Heat (J/g-K)":3.70E-01,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"CuW-10/90",
+    "Density (g/cm3)":1.70E+01,
+    "Thermal Conductivity (W/cm-K)":1.80E+00,
+    "Specific Heat (J/g-K)":1.60E-01,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Earth",
+    "Density (g/cm3)":2.05E+00,
+    "Thermal Conductivity (W/cm-K)":5.20E-03,
+    "Specific Heat (J/g-K)":1.84E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Ethylene Glycol",
+    "Density (g/cm3)":1.12E+00,
+    "Thermal Conductivity (W/cm-K)":2.42E-03,
+    "Specific Heat (J/g-K)":2.39E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Fe",
+    "Density (g/cm3)":7.21E+00,
+    "Thermal Conductivity (W/cm-K)":8.30E-01,
+    "Specific Heat (J/g-K)":4.60E-01,
+    "Linear Expansion (um/cm/C)":1.04E-01
+  },
+  {
+    "Name":"GaAs",
+    "Density (g/cm3)":5.32E+00,
+    "Thermal Conductivity (W/cm-K)":4.60E-01,
+    "Specific Heat (J/g-K)":3.50E-01,
+    "Linear Expansion (um/cm/C)":6.86E-02
+  },
+  {
+    "Name":"Ge",
+    "Density (g/cm3)":5.33E+00,
+    "Thermal Conductivity (W/cm-K)":6.00E-01,
+    "Specific Heat (J/g-K)":3.10E-01,
+    "Linear Expansion (um/cm/C)":5.80E-02
+  },
+  {
+    "Name":"Glass",
+    "Density (g/cm3)":2.58E+00,
+    "Thermal Conductivity (W/cm-K)":8.00E-03,
+    "Specific Heat (J/g-K)":7.95E-01,
+    "Linear Expansion (um/cm/C)":7.00E-02
+  },
+  {
+    "Name":"Glass Wool",
+    "Density (g/cm3)":2.00E-01,
+    "Thermal Conductivity (W/cm-K)":4.00E-04,
+    "Specific Heat (J/g-K)":6.70E-01,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Graphite",
+    "Density (g/cm3)":2.56E+00,
+    "Thermal Conductivity (W/cm-K)":5.70E-02,
+    "Specific Heat (J/g-K)":8.37E-01,
+    "Linear Expansion (um/cm/C)":3.60E-02
+  },
+  {
+    "Name":"In",
+    "Density (g/cm3)":7.31E+00,
+    "Thermal Conductivity (W/cm-K)":8.60E-01,
+    "Specific Heat (J/g-K)":1.30E-01,
+    "Linear Expansion (um/cm/C)":2.90E-01
+  },
+  {
+    "Name":"Kovar",
+    "Density (g/cm3)":8.36E+00,
+    "Thermal Conductivity (W/cm-K)":1.66E-01,
+    "Specific Heat (J/g-K)":4.60E-01,
+    "Linear Expansion (um/cm/C)":5.00E-02
+  },
+  {
+    "Name":"Ni",
+    "Density (g/cm3)":8.91E+00,
+    "Thermal Conductivity (W/cm-K)":9.00E-01,
+    "Specific Heat (J/g-K)":4.48E-01,
+    "Linear Expansion (um/cm/C)":1.19E-01
+  },
+  {
+    "Name":"Nitrogen",
+    "Density (g/cm3)":1.14E-03,
+    "Thermal Conductivity (W/cm-K)":2.60E-04,
+    "Specific Heat (J/g-K)":1.05E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Oil (Light)",
+    "Density (g/cm3)":9.10E-01,
+    "Thermal Conductivity (W/cm-K)":1.30E-03,
+    "Specific Heat (J/g-K)":1.80E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Pb",
+    "Density (g/cm3)":1.12E+01,
+    "Thermal Conductivity (W/cm-K)":3.50E-01,
+    "Specific Heat (J/g-K)":1.30E-01,
+    "Linear Expansion (um/cm/C)":2.93E-01
+  },
+  {
+    "Name":"PbSn-37/63",
+    "Density (g/cm3)":8.40E+00,
+    "Thermal Conductivity (W/cm-K)":5.00E-01,
+    "Specific Heat (J/g-K)":1.91E-01,
+    "Linear Expansion (um/cm/C)":2.50E-01
+  },
+  {
+    "Name":"Plexiglass",
+    "Density (g/cm3)":1.41E+00,
+    "Thermal Conductivity (W/cm-K)":2.60E-03,
+    "Specific Heat (J/g-K)":1.45E+00,
+    "Linear Expansion (um/cm/C)":7.40E-01
+  },
+  {
+    "Name":"Polyurethane",
+    "Density (g/cm3)":2.90E-02,
+    "Thermal Conductivity (W/cm-K)":3.50E-04,
+    "Specific Heat (J/g-K)":1.13E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Rubber",
+    "Density (g/cm3)":9.60E-01,
+    "Thermal Conductivity (W/cm-K)":1.60E-03,
+    "Specific Heat (J/g-K)":2.01E+00,
+    "Linear Expansion (um/cm/C)":7.20E-01
+  },
+  {
+    "Name":"Sapphire",
+    "Density (g/cm3)":3.97E+00,
+    "Thermal Conductivity (W/cm-K)":4.60E-01,
+    "Specific Heat (J/g-K)":7.65E-01,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Saw Dust",
+    "Density (g/cm3)":1.90E-01,
+    "Thermal Conductivity (W/cm-K)":5.90E-04,
+    "Specific Heat (J/g-K)":null,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Si",
+    "Density (g/cm3)":2.33E+00,
+    "Thermal Conductivity (W/cm-K)":1.50E+00,
+    "Specific Heat (J/g-K)":7.00E-01,
+    "Linear Expansion (um/cm/C)":2.60E-02
+  },
+  {
+    "Name":"Skin",
+    "Density (g/cm3)":1.00E+00,
+    "Thermal Conductivity (W/cm-K)":3.70E-03,
+    "Specific Heat (J/g-K)":4.19E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Sn",
+    "Density (g/cm3)":7.31E+00,
+    "Thermal Conductivity (W/cm-K)":6.40E-01,
+    "Specific Heat (J/g-K)":2.26E-01,
+    "Linear Expansion (um/cm/C)":2.34E-01
+  },
+  {
+    "Name":"Solder (Pb/Sn)",
+    "Density (g/cm3)":9.29E+00,
+    "Thermal Conductivity (W/cm-K)":4.80E-01,
+    "Specific Heat (J/g-K)":1.67E-01,
+    "Linear Expansion (um/cm/C)":2.41E-01
+  },
+  {
+    "Name":"Stainless Steel",
+    "Density (g/cm3)":8.01E+00,
+    "Thermal Conductivity (W/cm-K)":1.38E-01,
+    "Specific Heat (J/g-K)":4.60E-01,
+    "Linear Expansion (um/cm/C)":1.71E-01
+  },
+  {
+    "Name":"Steel (Low Carbon)",
+    "Density (g/cm3)":7.85E+00,
+    "Thermal Conductivity (W/cm-K)":4.80E-01,
+    "Specific Heat (J/g-K)":4.60E-01,
+    "Linear Expansion (um/cm/C)":1.15E-01
+  },
+  {
+    "Name":"Thermal Grease",
+    "Density (g/cm3)":2.40E+00,
+    "Thermal Conductivity (W/cm-K)":8.70E-03,
+    "Specific Heat (J/g-K)":2.09E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Ti",
+    "Density (g/cm3)":4.37E+00,
+    "Thermal Conductivity (W/cm-K)":2.07E-01,
+    "Specific Heat (J/g-K)":4.60E-01,
+    "Linear Expansion (um/cm/C)":8.20E-02
+  },
+  {
+    "Name":"Vermiculite (Loose)",
+    "Density (g/cm3)":1.30E-01,
+    "Thermal Conductivity (W/cm-K)":6.60E-04,
+    "Specific Heat (J/g-K)":null,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Water",
+    "Density (g/cm3)":1.00E+00,
+    "Thermal Conductivity (W/cm-K)":6.10E-03,
+    "Specific Heat (J/g-K)":4.19E+00,
+    "Linear Expansion (um/cm/C)":null
+  },
+  {
+    "Name":"Wood (Oak)",
+    "Density (g/cm3)":6.10E-01,
+    "Thermal Conductivity (W/cm-K)":1.50E-03,
+    "Specific Heat (J/g-K)":2.39E+00,
+    "Linear Expansion (um/cm/C)":4.90E-02
+  },
+  {
+    "Name":"Wood (Pine)",
+    "Density (g/cm3)":5.10E-01,
+    "Thermal Conductivity (W/cm-K)":1.10E-03,
+    "Specific Heat (J/g-K)":2.81E+00,
+    "Linear Expansion (um/cm/C)":5.40E-02
+  },
+  {
+    "Name":"Zn",
+    "Density (g/cm3)":7.15E+00,
+    "Thermal Conductivity (W/cm-K)":1.12E+00,
+    "Specific Heat (J/g-K)":3.81E-01,
+    "Linear Expansion (um/cm/C)":3.24E-01
+  }
+]
